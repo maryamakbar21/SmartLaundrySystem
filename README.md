@@ -23,6 +23,10 @@ The database includes the following tables:
 - Customer_Coupons
 
 The database uses primary keys and foreign keys to maintain relationships and data integrity between tables.
+## 📐 Entity Relationship Diagram
+
+![SmartLaundrySystem ERD]
+(SmartLaundrySystem_ERD.png)
 
 ## 🛠️ Tools & Technologies
 
